@@ -1,0 +1,25 @@
+[Directories]
+Animations=.\sceneassets\animations
+Archives=.\archives
+AutoBackup=.\autoback
+BitmapProxies=.\proxies
+Downloads=.\downloads
+Export=.\export
+Expressions=.\express
+Images=.\sceneassets\images
+Import=.\import
+Materials=.\materiallibraries
+MaxStart=.\scenes
+Photometric=.\sceneassets\photometric
+Previews=.\previews
+ProjectFolder=C:\Users\Nikki\Desktop\Missile Launcher
+RenderAssets=.\sceneassets\renderassets
+RenderOutput=.\renderoutput
+RenderPresets=.\renderpresets
+Scenes=.\scenes
+Sounds=.\sceneassets\sounds
+VideoPost=.\vpost
+[XReferenceDirs]
+Dir1=.\scenes
+[BitmapDirs]
+Dir1=.\sceneassets\images
